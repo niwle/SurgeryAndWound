@@ -1,0 +1,78 @@
+"filename", "language", "PHP", "comment", "blank", "total"
+"c:\xampp\htdocs\SurgeryAndWound\doctor\appointment-list.php", "PHP", -118, 0, -12, -130
+"c:\xampp\htdocs\SurgeryAndWound\doctor\comment-list.php", "PHP", -109, 0, -8, -117
+"c:\xampp\htdocs\SurgeryAndWound\doctor\doctor-Iupload.php", "PHP", -75, -290, -17, -382
+"c:\xampp\htdocs\SurgeryAndWound\doctor\doctor-Iview.php", "PHP", -71, 0, -7, -78
+"c:\xampp\htdocs\SurgeryAndWound\doctor\doctor-edit-rec.php", "PHP", -209, -319, -24, -552
+"c:\xampp\htdocs\SurgeryAndWound\doctor\doctor-feedback.php", "PHP", -327, -398, -32, -757
+"c:\xampp\htdocs\SurgeryAndWound\doctor\doctor-view.php", "PHP", -309, 0, -26, -335
+"c:\xampp\htdocs\SurgeryAndWound\doctor\includes\2tor_conn.php", "PHP", -104, -11, -29, -144
+"c:\xampp\htdocs\SurgeryAndWound\doctor\includes\path.inc.php", "PHP", -43, -2, -8, -53
+"c:\xampp\htdocs\SurgeryAndWound\doctor\includes\session.inc.php", "PHP", -14, -1, -6, -21
+"c:\xampp\htdocs\SurgeryAndWound\doctor\index.php", "PHP", -181, -12, -13, -206
+"c:\xampp\htdocs\SurgeryAndWound\doctor\layouts\nav_header.php", "PHP", -97, 0, -10, -107
+"c:\xampp\htdocs\SurgeryAndWound\doctor\layouts\navigate.php", "PHP", -57, 0, -1, -58
+"c:\xampp\htdocs\SurgeryAndWound\doctor\layouts\widget.php", "PHP", -86, 0, 0, -86
+"c:\xampp\htdocs\SurgeryAndWound\doctor\loadReport.php", "PHP", -50, -3, -11, -64
+"c:\xampp\htdocs\SurgeryAndWound\doctor\login.php", "PHP", -48, -12, -12, -72
+"c:\xampp\htdocs\SurgeryAndWound\doctor\logout.php", "PHP", -8, 0, 0, -8
+"c:\xampp\htdocs\SurgeryAndWound\doctor\notification-list.php", "PHP", -108, -4, -10, -122
+"c:\xampp\htdocs\SurgeryAndWound\doctor\patient-list.php", "PHP", -85, 0, -4, -89
+"c:\xampp\htdocs\SurgeryAndWound\doctor\patient-view.php", "PHP", -314, -1, -27, -342
+"c:\xampp\htdocs\SurgeryAndWound\doctor\profile.php", "PHP", -183, -10, -17, -210
+"c:\xampp\htdocs\SurgeryAndWound\doctor\report.php", "PHP", -111, 0, -12, -123
+"c:\xampp\htdocs\SurgeryAndWound\doctor\review.php", "PHP", -172, 0, -18, -190
+"c:\xampp\htdocs\SurgeryAndWound\doctor\speciality.php", "PHP", -87, -199, -10, -296
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\activate.php", "PHP", -129, -1, -11, -141
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\appointment-view.php", "PHP", -393, -7, -36, -436
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\appointment.php", "PHP", -86, 0, -5, -91
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\doctor-edit.php", "PHP", -197, -188, -17, -402
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\doctor.php", "PHP", -73, 0, -5, -78
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\forgot.php", "PHP", -82, 0, -13, -95
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\index.php", "PHP", -204, -4, -7, -215
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\loadAppointment.php", "PHP", -47, -7, -3, -57
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\loadSchedule.php", "PHP", -22, 0, -6, -28
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\login.php", "PHP", -87, 0, -9, -96
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\logout.php", "PHP", -6, -2, 0, -8
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\password.php", "PHP", -90, 0, -10, -100
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\patient-list.php", "PHP", -72, 0, -4, -76
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\patient-view.php", "PHP", -376, -7, -34, -417
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\reset.php", "PHP", -121, -27, -12, -160
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\sch-edit.php", "PHP", -210, 0, -17, -227
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\sch-list.php", "PHP", -240, 0, -15, -255
+"c:\xampp\htdocs\SurgeryAndWound\doctor\uneeded\treatment.php", "PHP", -173, 0, -17, -190
+"c:\xampp\htdocs\SurgeryAndWound\research team\includes\adm_conn.php", "PHP", 190, 12, 45, 247
+"c:\xampp\htdocs\SurgeryAndWound\research team\includes\path.inc.php", "PHP", 124, 10, 21, 155
+"c:\xampp\htdocs\SurgeryAndWound\research team\includes\session.inc.php", "PHP", 14, 1, 5, 20
+"c:\xampp\htdocs\SurgeryAndWound\research team\index.php", "PHP", 106, 12, 6, 124
+"c:\xampp\htdocs\SurgeryAndWound\research team\layouts\404.php", "PHP", 124, 5, 24, 153
+"c:\xampp\htdocs\SurgeryAndWound\research team\layouts\nav_header.php", "PHP", 30, 0, 1, 31
+"c:\xampp\htdocs\SurgeryAndWound\research team\layouts\navigate.php", "PHP", 77, 0, 0, 77
+"c:\xampp\htdocs\SurgeryAndWound\research team\layouts\widget.php", "PHP", 81, 0, 1, 82
+"c:\xampp\htdocs\SurgeryAndWound\research team\login.php", "PHP", 51, 11, 11, 73
+"c:\xampp\htdocs\SurgeryAndWound\research team\logout.php", "PHP", 8, 0, 0, 8
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\admin-add.php", "PHP", 102, 3, 16, 121
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\admin-edit.php", "PHP", 159, 5, 17, 181
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\admin-export.php", "PHP", 112, 0, 10, 122
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\admin-export2.php", "PHP", 42, 0, 9, 51
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\admin-upload.php", "PHP", 244, 23, 34, 301
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\admin-upload2.php", "PHP", 161, 5, 21, 187
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\admin.php", "PHP", 72, 0, 3, 75
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\appointment.php", "PHP", 81, 0, 2, 83
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\clinic-add.php", "PHP", 177, 68, 23, 268
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\clinic-edit.php", "PHP", 366, 5, 35, 406
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\clinic-list.php", "PHP", 88, 0, 2, 90
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\clinic-view.php", "PHP", 146, 1, 6, 153
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\doctor-add.php", "PHP", 137, 275, 20, 432
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\doctor-list.php", "PHP", 75, 0, 3, 78
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\doctor-view.php", "PHP", 339, 0, 27, 366
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\patient-assign.php", "PHP", 144, 2, 16, 162
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\patient-assign2.php", "PHP", 123, 2, 18, 143
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\patient-list.php", "PHP", 75, 0, 3, 78
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\patient-view.php", "PHP", 339, 0, 27, 366
+"c:\xampp\htdocs\SurgeryAndWound\research team\not_needed\speciality.php", "PHP", 87, 199, 10, 296
+"c:\xampp\htdocs\SurgeryAndWound\research team\patient-doctor-list.php", "PHP", 91, 0, 5, 96
+"c:\xampp\htdocs\SurgeryAndWound\research team\patient-doctor-view.php", "PHP", 451, 0, 37, 488
+"c:\xampp\htdocs\SurgeryAndWound\research team\patient-edit-view.php", "PHP", 334, 353, 28, 715
+"c:\xampp\htdocs\SurgeryAndWound\research team\profile.php", "PHP", 181, 16, 21, 218
+"Total", "-", -643, -497, -28, -1168
