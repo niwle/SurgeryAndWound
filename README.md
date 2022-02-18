@@ -4,4 +4,4 @@
 [Upload to PHPMYADMIN](https://github.com/niwle/SurgeryAndWound/blob/main/Steps%20to%20import%20SQL%20in%20localhost.docx)  
 
 ## Explanation on the website
-[Upload to PHPMYADMIN](https://github.com/niwle/SurgeryAndWound/blob/main/Web%20Explanation.docx)  
+[Explanation on the website](https://github.com/niwle/SurgeryAndWound/blob/main/Web%20Explanation.docx)  
